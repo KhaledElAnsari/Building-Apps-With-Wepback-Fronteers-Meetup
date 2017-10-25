@@ -1,0 +1,7 @@
+# Directories
+/node_modules
+/dest
+/dev-dest
+
+# OS Files
+.DS_Store

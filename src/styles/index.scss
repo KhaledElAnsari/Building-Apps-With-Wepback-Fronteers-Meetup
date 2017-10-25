@@ -1,0 +1,16 @@
+.main-section {
+	color: #ffffff;
+	background: red;
+
+	.section-title {
+		font-size: 2rem;
+	}
+
+	.section-body {
+		img {
+			&.cover {
+				width: 100%;
+			}
+		}
+	}
+}
