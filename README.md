@@ -13,3 +13,9 @@ This project is using Webpack 3, TypeScript & SASS.
     - Building for development: `npm run build:dev`
     - Building for production: `npm run build:prod`
     - Building all: `npm run build`
+
+# Author's notes
+
+For more information about Webpack please check [their website](webpack.js.org), read the documentation and if there's something I can help with please let me know
+
+Special thanks for the host Islam for arranging the meetup and my friend Mutaz, Anas and Murad for their helpful notes.
